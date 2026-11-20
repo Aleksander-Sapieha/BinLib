@@ -1,0 +1,13 @@
+program
+src/codegen/__pycache__
+src/formats/__pycache__
+/build/
+test
+src/examples/examplesshared/main
+src/examples/examplesshared/program.so
+curl.o
+curl.pic.o
+compiler.spec
+/dist/
+src/__pycache__
+
